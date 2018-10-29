@@ -1,6 +1,7 @@
 public class Kerucut extends BangunRuang{
-    private double jariJari;
-    private double tinggi;
+
+//    private double jariJari;
+//    private double tinggi;
 
     public double getJariJari() {
         return jariJari;

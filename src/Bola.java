@@ -1,6 +1,6 @@
 public class Bola extends BangunRuang{
 
-    private double jariJari;
+//    private double jariJari;
 
     public double getJariJari() {
         return jariJari;
